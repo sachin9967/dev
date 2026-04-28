@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is me in chat
+=======
+mahe vee aaja 
+>>>>>>> s
+final me after conflct 
