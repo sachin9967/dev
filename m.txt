@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-this is sachin from m tetxt
-=======
-
->>>>>>> 0c3b0cd3ce367b7edaac99f978d6b378882612f5
-m
-s
